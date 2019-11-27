@@ -1,0 +1,50 @@
+B. Sort and Print
+
+Score: 1
+
+CPU: 1s
+Memory: 1511MB
+
+
+Given a list of students with roll, name and marks of the students. Sort the students according to the marks first. If two student have scored the same mark, then sort them according to their roll number. Print the sorted list of the students following a formatted representation of roll, name and marks.
+
+
+Input
+The input will start with a number N (1 <= N <= 100) representing the total number of students. There will be three inputs for each students to get there roll, name and marks. Roll will be less than 100, name will have at most 10 characters and marks will be less than or equal to 100.
+
+
+Output
+The output will display the sorted list of the students according to the obtained marks first and then their roll number in the following format.
+
+
+Samples
+Input	Output
+3
+20
+abul
+0
+7
+babul
+0
+1
+kabul
+100	
+Roll | Name       | Marks
+-------------------------
+   1 | kabul      | 100
+   7 | babul      | 0
+  20 | abul       | 0
+Input	Output
+4
+1
+aa
+90
+5
+bb
+80
+12
+cc
+90
+3
+dd
+80 
