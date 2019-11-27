@@ -60,26 +60,5 @@ int asize=0;
         cout <<"| "<<marks[i]<<"\n";
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 return 0;
-/*int a;
-scanf("%d",&a);
-int size=log10(a)+1;
-cout<<size<<"\n";
-*/
 }
