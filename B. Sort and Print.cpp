@@ -60,22 +60,6 @@ int asize=0;
         cout <<"| "<<marks[i]<<"\n";
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 return 0;
 /*int a;
 scanf("%d",&a);
